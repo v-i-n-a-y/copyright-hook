@@ -1,0 +1,8 @@
+- id: copyright
+  name: copyright
+  description: "Updates .py copyright files"
+  entry: python copyright.py
+  language: python
+  types_or: [python]
+  args: []
+  pass_filenames: false
